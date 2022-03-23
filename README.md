@@ -1,6 +1,4 @@
-# Introduction to Django Rest Framework
-
-This is the repository of the video series [Introduction to Django Rest Framework](https://www.youtube.com/playlist?list=PLLxk3TkuAYnrO32ABtQyw2hLRWt1BUrhj) published on YouTube.
+# Django Rest Framework
 
 It is a sample project where we are building a personal finances app, where the user can keep track of their expenses and income.
 
